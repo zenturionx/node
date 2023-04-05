@@ -1,4 +1,4 @@
-# Consola Interactiva
+# Webserver con NodeJS
 Este proyecto es sobre el curso de Node de Fernando Herrera en Udemy, el objetivo es crear un webserver
 junto a HTTP y EXPRESS, con un template engine llamado HBS.
 
