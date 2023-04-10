@@ -1,4 +1,4 @@
-# Webserver con NodeJS
+# Rest Api con NodeJS
 Este proyecto es sobre el curso de Node de Fernando Herrera en Udemy, el objetivo es crear un REST API con Express.
 
 # Temas puntuales del curso
