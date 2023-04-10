@@ -1,0 +1,18 @@
+{
+  "name": "5---restserver",
+  "version": "1.0.0",
+  "description": "Este proyecto es sobre el curso de Node de Fernando Herrera en Udemy, el objetivo es crear un webserver\r junto a HTTP y EXPRESS, con un template engine llamado HBS.",
+  "type": "module",
+  "exports": "./app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
